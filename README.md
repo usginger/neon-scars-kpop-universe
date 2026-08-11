@@ -65,4 +65,6 @@ A cyberpunk K-pop duet production blueprint featuring a gritty dystopian love tr
 * 🎬 [Music Video Pitch & Storyboard](MUSIC_VIDEO_PITCH.md) - Camera angles and lighting transitions.
 * 🕺 [Choreography & Dance Breakdown](CHOREOGRAPHY.md) - The 8-count breakdown for live stages.
 * 📖 [Album Liner Notes & Deep Lore](LINER_NOTES.md) - Full essay analyzing the love triangle dynamics.
+ * 📡 [Underground Press Release](PRESS_RELEASE.md) - Fictional rebel broadcast announcement and media alert.
+
 
