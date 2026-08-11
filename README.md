@@ -59,3 +59,10 @@ A cyberpunk K-pop duet production blueprint featuring a gritty dystopian love tr
 ```
 *Drones maintain rigid, mechanical pacing, creating a stark visual contrast to the fluid, high-power emotional movements of the two leads.*
 
+
+## 🗂️ Project Directory
+* 🎤 [Song Lyrics & Romanized Korean](LYRICS.md) - The complete vocal structure and track details.
+* 🎬 [Music Video Pitch & Storyboard](MUSIC_VIDEO_PITCH.md) - Camera angles and lighting transitions.
+* 🕺 [Choreography & Dance Breakdown](CHOREOGRAPHY.md) - The 8-count breakdown for live stages.
+* 📖 [Album Liner Notes & Deep Lore](LINER_NOTES.md) - Full essay analyzing the love triangle dynamics.
+
