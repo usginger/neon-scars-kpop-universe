@@ -59,6 +59,9 @@ A cyberpunk K-pop duet production blueprint featuring a gritty dystopian love tr
 ```
 *Drones maintain rigid, mechanical pacing, creating a stark visual contrast to the fluid, high-power emotional movements of the two leads.*
 
+<video src="https://github.com" controls width="100%"></video>
+
+
 
 ## 🗂️ Project Directory
 * 🎤 [Song Lyrics & Romanized Korean](LYRICS.md) - The complete vocal structure and track details.
