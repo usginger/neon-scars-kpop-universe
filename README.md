@@ -65,9 +65,14 @@ A cyberpunk K-pop duet production blueprint featuring a gritty dystopian love tr
 
 ## 🗂️ Project Directory
 * 🎤 [Song Lyrics & Romanized Korean](LYRICS.md) - The complete vocal structure and track details.
+* 🇰🇷 [Song Lyrics (한국어)](LYRICS_KO.md) - Full Hangul Korean translation.
+* 🇯🇵 [Song Lyrics (日本語)](LYRICS_JA.md) - Full Japanese translation + visual balance note.
 * 🎬 [Music Video Pitch & Storyboard](MUSIC_VIDEO_PITCH.md) - Camera angles and lighting transitions.
 * 🕺 [Choreography & Dance Breakdown](CHOREOGRAPHY.md) - The 8-count breakdown for live stages.
 * 📖 [Album Liner Notes & Deep Lore](LINER_NOTES.md) - Full essay analyzing the love triangle dynamics.
- * 📡 [Underground Press Release](PRESS_RELEASE.md) - Fictional rebel broadcast announcement and media alert.
-
+* 🇰🇷 [Liner Notes (한국어)](LINER_NOTES_KO.md) - Korean translation of the lore essay.
+* 🇯🇵 [Liner Notes (日本語)](LINER_NOTES_JA.md) - Japanese translation of the lore essay.
+* 📡 [Underground Press Release](PRESS_RELEASE.md) - Fictional rebel broadcast announcement and media alert.
+* 🇰🇷 [Press Release (한국어)](PRESS_RELEASE_KO.md) - Korean version of the rebel broadcast.
+* 🇯🇵 [Press Release (日本語)](PRESS_RELEASE_JA.md) - Japanese version of the rebel broadcast.
 
