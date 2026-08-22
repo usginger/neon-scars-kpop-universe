@@ -1,5 +1,8 @@
+
 # neon-scars-kpop-universe
 A cyberpunk K-pop duet production blueprint featuring a gritty dystopian love triangle, custom bilingual lyrics, and a multi-perspective music video storyboard
+# Blue Eyes in the Dust (湛藍的雙眼)
+
 # 🕺 Choreography Sheet: The Grid Shatter (Dance Break)
 
 * **Track Segment:** Dance Break / Instrumental Drop
